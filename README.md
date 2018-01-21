@@ -22,7 +22,7 @@ pod 'WQFunctionModules'
 
 ## Author
 
-tangtangmang@163.com, wang68543@163.com
+wang68543@163.com
 
 ## License
 
