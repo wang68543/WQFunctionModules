@@ -11,7 +11,9 @@ PODS:
     - FBSnapshotTestCase (~> 2.0)
     - Nimble (~> 7.0)
   - Quick (1.2.0)
-  - WQFunctionModules (0.1.0)
+  - WQFunctionModules (0.1.0):
+    - WQFunctionModules/WQTransition (= 0.1.0)
+  - WQFunctionModules/WQTransition (0.1.0)
 
 DEPENDENCIES:
   - FBSnapshotTestCase (~> 2.1.4)
@@ -29,7 +31,7 @@ SPEC CHECKSUMS:
   Nimble: bfe1f814edabba69ff145cb1283e04ed636a67f2
   Nimble-Snapshots: f5459b5b091678dc942d03ec4741cacb58ba4a52
   Quick: 58d203b1c5e27fff7229c4c1ae445ad7069a7a08
-  WQFunctionModules: 9038047e3f459caaff26a5e801276d05744a5f54
+  WQFunctionModules: 955b542b6d73ab937023e630dde23e47750ba1f7
 
 PODFILE CHECKSUM: fc934da0772ace16a2864b37bb01ae7c74cab68a
 
