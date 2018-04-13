@@ -28,7 +28,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		5CE76491A56F504E5D98848C /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		5CE76491A56F504E5D98848C /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		607FACD01AFB9204008FA782 /* WQFunctionModules_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WQFunctionModules_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		607FACD41AFB9204008FA782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		607FACD51AFB9204008FA782 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -40,13 +40,13 @@
 		607FACEA1AFB9204008FA782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		607FACEB1AFB9204008FA782 /* Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests.swift; sourceTree = "<group>"; };
 		6D26FC166973F5E87C7F2D44 /* Pods_WQFunctionModules_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_WQFunctionModules_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		70002B38F7330F087163F3E7 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		70002B38F7330F087163F3E7 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		8AF06F7FCBAF553E8AF47079 /* Pods-WQFunctionModules_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-WQFunctionModules_Example.release.xcconfig"; path = "Pods/Target Support Files/Pods-WQFunctionModules_Example/Pods-WQFunctionModules_Example.release.xcconfig"; sourceTree = "<group>"; };
 		9868B4F595C938812F03808D /* Pods_WQFunctionModules_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_WQFunctionModules_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		A8B3A0AF5D949A392B8C7CAE /* Pods-WQFunctionModules_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-WQFunctionModules_Tests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-WQFunctionModules_Tests/Pods-WQFunctionModules_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		D79D54DFC9EE4214E720B36B /* Pods-WQFunctionModules_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-WQFunctionModules_Tests.release.xcconfig"; path = "Pods/Target Support Files/Pods-WQFunctionModules_Tests/Pods-WQFunctionModules_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		E93AEC74C181DF2F1FBDDE7B /* Pods-WQFunctionModules_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-WQFunctionModules_Example.debug.xcconfig"; path = "Pods/Target Support Files/Pods-WQFunctionModules_Example/Pods-WQFunctionModules_Example.debug.xcconfig"; sourceTree = "<group>"; };
-		EDED570206C1EEFDA99F847C /* WQFunctionModules.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = WQFunctionModules.podspec; path = ../WQFunctionModules.podspec; sourceTree = "<group>"; };
+		EDED570206C1EEFDA99F847C /* WQFunctionModules.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = WQFunctionModules.podspec; path = ../WQFunctionModules.podspec; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */

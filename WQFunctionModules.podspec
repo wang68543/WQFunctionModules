@@ -30,8 +30,11 @@ TODO: Add long description of the pod here.
 
   s.ios.deployment_target = '8.0'
 
-  s.source_files = 'WQFunctionModules/Classes/**/*'
+  # s.source_files = 'WQFunctionModules/Classes/**/*'
   
+  s.subspec 'WQTransition' do |ss|
+  	ss.source_files = 'WQFunctionModules/Classes/WQTransition/*.swift'   
+  end
   # s.resource_bundles = {
   #   'WQFunctionModules' => ['WQFunctionModules/Assets/*.png']
   # }
